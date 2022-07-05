@@ -68,7 +68,7 @@ $\text{x = 764/23}$
 
 ![3](featuresDemo/mathbot3.PNG)
 
-Here, we can see the tokens from prompt in columns and the tokens from target expressions in rows. These multiheads are somewhat similar to kernels in Convolutional Neural Networks (CNNs). We can see every single head except head $5$ and $7$ gives very heavy attention to the numbers from both sides. Also, note that head $5$ gives strong attention to the $each$.
+Here, we can see the tokens from prompt in columns and the tokens from target expressions in rows. These multiheads are somewhat similar to kernels in Convolutional Neural Networks (CNNs). We can see every single head except head $5$ and $7$ gives very heavy attention to the numbers from both sides. Also, note that head $5$ gives strong attention to the word $each$.
 
 ## Critique:
 ### Strengths:
