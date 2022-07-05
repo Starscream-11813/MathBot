@@ -66,7 +66,7 @@ $\text{Sarah wants to diverge 764 plums among 23 friends. How many would each fr
 **Predicted Translation:**
 $\text{x = 764/23}$
 
-![3](featuresDemo/Attention Weights.png)
+![3](featuresDemo/Attention%20Weights.png)
 Here, we can see the tokens from prompt in columns and the tokens from target expressions in rows. These multiheads are somewhat similar to kernels in Convolutional Neural Networks (CNNs). We can see every single head except head $5$ and $7$ gives very heavy attention to the numbers from both sides. Also note that head $5$ gives strong attention to the $“each”$.
 
 ## Critique:
