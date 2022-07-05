@@ -45,11 +45,11 @@ Our approach is to use Transformer-based $\text{Seq2Seq}$ model to generate the 
 The dataset we used is [MAWPS](https://aclanthology.org/N16-1136.pdf). There are 3,320 problems along with their solution expressions. Out of those, we took 2,373 problems that were specific to our interest, as the rest were geometry problems. After that we used a [question generator](https://github.com/RahulSharmaNITT/MathWordProblem) to generate similar problems. The final dataset had 38,144 problems in total. And our train-test split was $95-5$.
 
 ## Features:
-Provide a simple Math Word Problem statement in the text-box on the left. After a few seconds, the model should yield a predicted math expression. 
-![2](mathbot2.png)
+Provide a simple Math Word Problem statement in the text-box on the left and click on the "Submit" button. After a few seconds, the model should yield a predicted math expression. 
+![2](demoImages/mathbot2.png)
 
 You can also click on one of the many MWP examples shown below the text-boxes.
-![1](mathbot1.png)
+![1](demoImages/mathbot1.png)
 
 ## Resources:
 ### Tutorials:
