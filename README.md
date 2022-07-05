@@ -1,5 +1,5 @@
 # MathBot
-MathBot is a Math Word Problem (MWP) solver made as the Lab project for CSE 4622: Machine Learning Lab.
+MathBot is a transformer-based Math Word Problem (MWP) solver made as the Lab project for CSE 4622: Machine Learning Lab.
 
 ![Build](https://img.shields.io/badge/build-passing-lightgreen.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
