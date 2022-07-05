@@ -46,10 +46,10 @@ The dataset we used is [MAWPS](https://aclanthology.org/N16-1136.pdf). There are
 
 ## Features:
 Provide a simple Math Word Problem statement in the text-box on the left and click on the "Submit" button. After a few seconds, the model should yield a predicted math expression. 
-![2](featuresDemo/mathbot2.png)
+![2](featuresDemo/mathbot2.PNG)
 
 You can also click on one of the many MWP examples shown below the text-boxes.
-![1](featuresDemo/mathbot1.png)
+![1](featuresDemo/mathbot1.PNG)
 
 ## Resources:
 ### Tutorials:
