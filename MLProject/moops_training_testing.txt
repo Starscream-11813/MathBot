@@ -1,0 +1,467 @@
+Epoch 1, Batch 0, Loss 0.67271,             SC Accuracy 0.00048, Mean Accuracy 0.00368
+Epoch 1, Batch 50, Loss 0.56483,             SC Accuracy 0.00933, Mean Accuracy 0.06996
+Epoch 1, Batch 100, Loss 0.48761,             SC Accuracy 0.01927, Mean Accuracy 0.14484
+Epoch 1, Batch 150, Loss 0.42471,             SC Accuracy 0.03163, Mean Accuracy 0.23823
+Epoch 1, Batch 200, Loss 0.37564,             SC Accuracy 0.04128, Mean Accuracy 0.31125
+Epoch 1, Batch 250, Loss 0.33710,             SC Accuracy 0.04932, Mean Accuracy 0.37154
+Epoch 1, Batch 300, Loss 0.30565,             SC Accuracy 0.05611, Mean Accuracy 0.42202
+Epoch 1, Batch 350, Loss 0.27841,             SC Accuracy 0.06189, Mean Accuracy 0.46643
+Epoch 1, Batch 400, Loss 0.25535,             SC Accuracy 0.06695, Mean Accuracy 0.50539
+Epoch 1, Batch 450, Loss 0.23664,             SC Accuracy 0.07123, Mean Accuracy 0.53735
+Epoch 1, Batch 500, Loss 0.22074,             SC Accuracy 0.07491, Mean Accuracy 0.56502
+Epoch 1, Batch 550, Loss 0.20729,             SC Accuracy 0.07806, Mean Accuracy 0.58841
+Saving checkpoint for epoch 1 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-1
+Epoch 1, Loss 0.20371,     SC Accuracy 0.07885, Mean Accuracy 0.59442
+Training time for this epoch: 169.58584 seconds
+
+Epoch 2, Batch 0, Loss 0.06355,             SC Accuracy 0.10962, Mean Accuracy 0.82014
+Epoch 2, Batch 50, Loss 0.06811,             SC Accuracy 0.11058, Mean Accuracy 0.83076
+Epoch 2, Batch 100, Loss 0.06420,             SC Accuracy 0.11145, Mean Accuracy 0.83779
+Epoch 2, Batch 150, Loss 0.06320,             SC Accuracy 0.11176, Mean Accuracy 0.83974
+Epoch 2, Batch 200, Loss 0.06163,             SC Accuracy 0.11221, Mean Accuracy 0.84332
+Epoch 2, Batch 250, Loss 0.05970,             SC Accuracy 0.11267, Mean Accuracy 0.84780
+Epoch 2, Batch 300, Loss 0.05841,             SC Accuracy 0.11309, Mean Accuracy 0.85075
+Epoch 2, Batch 350, Loss 0.05679,             SC Accuracy 0.11375, Mean Accuracy 0.85516
+Epoch 2, Batch 400, Loss 0.05561,             SC Accuracy 0.11422, Mean Accuracy 0.85867
+Epoch 2, Batch 450, Loss 0.05371,             SC Accuracy 0.11471, Mean Accuracy 0.86355
+Epoch 2, Batch 500, Loss 0.05239,             SC Accuracy 0.11515, Mean Accuracy 0.86723
+Epoch 2, Batch 550, Loss 0.05076,             SC Accuracy 0.11567, Mean Accuracy 0.87158
+Saving checkpoint for epoch 2 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-2
+Epoch 2, Loss 0.05039,     SC Accuracy 0.11582, Mean Accuracy 0.87262
+Training time for this epoch: 166.60981 seconds
+
+Epoch 3, Batch 0, Loss 0.07584,             SC Accuracy 0.12139, Mean Accuracy 0.84027
+Epoch 3, Batch 50, Loss 0.03873,             SC Accuracy 0.12098, Mean Accuracy 0.90596
+Epoch 3, Batch 100, Loss 0.03508,             SC Accuracy 0.12127, Mean Accuracy 0.91477
+Epoch 3, Batch 150, Loss 0.03413,             SC Accuracy 0.12226, Mean Accuracy 0.91856
+Epoch 3, Batch 200, Loss 0.03237,             SC Accuracy 0.12271, Mean Accuracy 0.92268
+Epoch 3, Batch 250, Loss 0.03104,             SC Accuracy 0.12310, Mean Accuracy 0.92654
+Epoch 3, Batch 300, Loss 0.02997,             SC Accuracy 0.12354, Mean Accuracy 0.92962
+Epoch 3, Batch 350, Loss 0.02909,             SC Accuracy 0.12381, Mean Accuracy 0.93226
+Epoch 3, Batch 400, Loss 0.02805,             SC Accuracy 0.12431, Mean Accuracy 0.93516
+Epoch 3, Batch 450, Loss 0.02708,             SC Accuracy 0.12458, Mean Accuracy 0.93763
+Epoch 3, Batch 500, Loss 0.02616,             SC Accuracy 0.12482, Mean Accuracy 0.94016
+Epoch 3, Batch 550, Loss 0.02534,             SC Accuracy 0.12504, Mean Accuracy 0.94226
+Saving checkpoint for epoch 3 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-3
+Epoch 3, Loss 0.02507,     SC Accuracy 0.12511, Mean Accuracy 0.94289
+Training time for this epoch: 166.24772 seconds
+
+Epoch 4, Batch 0, Loss 0.01732,             SC Accuracy 0.12812, Mean Accuracy 0.95691
+Epoch 4, Batch 50, Loss 0.01962,             SC Accuracy 0.12718, Mean Accuracy 0.95760
+Epoch 4, Batch 100, Loss 0.01834,             SC Accuracy 0.12767, Mean Accuracy 0.95969
+Epoch 4, Batch 150, Loss 0.01787,             SC Accuracy 0.12784, Mean Accuracy 0.96066
+Epoch 4, Batch 200, Loss 0.01783,             SC Accuracy 0.12783, Mean Accuracy 0.96112
+Epoch 4, Batch 250, Loss 0.01753,             SC Accuracy 0.12784, Mean Accuracy 0.96167
+Epoch 4, Batch 300, Loss 0.01749,             SC Accuracy 0.12779, Mean Accuracy 0.96183
+Epoch 4, Batch 350, Loss 0.01733,             SC Accuracy 0.12783, Mean Accuracy 0.96231
+Epoch 4, Batch 400, Loss 0.01697,             SC Accuracy 0.12793, Mean Accuracy 0.96316
+Epoch 4, Batch 450, Loss 0.01694,             SC Accuracy 0.12792, Mean Accuracy 0.96321
+Epoch 4, Batch 500, Loss 0.01698,             SC Accuracy 0.12786, Mean Accuracy 0.96318
+Epoch 4, Batch 550, Loss 0.01677,             SC Accuracy 0.12787, Mean Accuracy 0.96359
+Saving checkpoint for epoch 4 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-4
+Epoch 4, Loss 0.01683,     SC Accuracy 0.12790, Mean Accuracy 0.96346
+Training time for this epoch: 165.83757 seconds
+
+Epoch 5, Batch 0, Loss 0.01262,             SC Accuracy 0.12115, Mean Accuracy 0.96552
+Epoch 5, Batch 50, Loss 0.01561,             SC Accuracy 0.12947, Mean Accuracy 0.96604
+Epoch 5, Batch 100, Loss 0.01504,             SC Accuracy 0.12845, Mean Accuracy 0.96688
+Epoch 5, Batch 150, Loss 0.01456,             SC Accuracy 0.12851, Mean Accuracy 0.96751
+Epoch 5, Batch 200, Loss 0.01465,             SC Accuracy 0.12848, Mean Accuracy 0.96785
+Epoch 5, Batch 250, Loss 0.01495,             SC Accuracy 0.12834, Mean Accuracy 0.96742
+Epoch 5, Batch 300, Loss 0.01468,             SC Accuracy 0.12832, Mean Accuracy 0.96757
+Epoch 5, Batch 350, Loss 0.01492,             SC Accuracy 0.12830, Mean Accuracy 0.96731
+Epoch 5, Batch 400, Loss 0.01492,             SC Accuracy 0.12837, Mean Accuracy 0.96745
+Epoch 5, Batch 450, Loss 0.01497,             SC Accuracy 0.12838, Mean Accuracy 0.96731
+Epoch 5, Batch 500, Loss 0.01492,             SC Accuracy 0.12840, Mean Accuracy 0.96739
+Epoch 5, Batch 550, Loss 0.01488,             SC Accuracy 0.12843, Mean Accuracy 0.96749
+Saving checkpoint for epoch 5 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-5
+Epoch 5, Loss 0.01489,     SC Accuracy 0.12844, Mean Accuracy 0.96746
+Training time for this epoch: 166.54177 seconds
+
+Epoch 6, Batch 0, Loss 0.02266,             SC Accuracy 0.13221, Mean Accuracy 0.95321
+Epoch 6, Batch 50, Loss 0.01014,             SC Accuracy 0.12886, Mean Accuracy 0.97686
+Epoch 6, Batch 100, Loss 0.01363,             SC Accuracy 0.12961, Mean Accuracy 0.97070
+Epoch 6, Batch 150, Loss 0.01324,             SC Accuracy 0.12911, Mean Accuracy 0.97114
+Epoch 6, Batch 200, Loss 0.01394,             SC Accuracy 0.12902, Mean Accuracy 0.97017
+Epoch 6, Batch 250, Loss 0.01400,             SC Accuracy 0.12900, Mean Accuracy 0.96991
+Epoch 6, Batch 300, Loss 0.01351,             SC Accuracy 0.12897, Mean Accuracy 0.97079
+Epoch 6, Batch 350, Loss 0.01398,             SC Accuracy 0.12874, Mean Accuracy 0.96981
+Epoch 6, Batch 400, Loss 0.01379,             SC Accuracy 0.12880, Mean Accuracy 0.97020
+Epoch 6, Batch 450, Loss 0.01343,             SC Accuracy 0.12879, Mean Accuracy 0.97097
+Epoch 6, Batch 500, Loss 0.01360,             SC Accuracy 0.12873, Mean Accuracy 0.97056
+Epoch 6, Batch 550, Loss 0.01390,             SC Accuracy 0.12873, Mean Accuracy 0.97002
+Saving checkpoint for epoch 6 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-6
+Epoch 6, Loss 0.01398,     SC Accuracy 0.12876, Mean Accuracy 0.96990
+Training time for this epoch: 202.27449 seconds
+
+Epoch 7, Batch 0, Loss 0.00796,             SC Accuracy 0.12644, Mean Accuracy 0.97952
+Epoch 7, Batch 50, Loss 0.01331,             SC Accuracy 0.12907, Mean Accuracy 0.97051
+Epoch 7, Batch 100, Loss 0.01203,             SC Accuracy 0.12877, Mean Accuracy 0.97298
+Epoch 7, Batch 150, Loss 0.01292,             SC Accuracy 0.12873, Mean Accuracy 0.97179
+Epoch 7, Batch 200, Loss 0.01338,             SC Accuracy 0.12884, Mean Accuracy 0.97100
+Epoch 7, Batch 250, Loss 0.01348,             SC Accuracy 0.12862, Mean Accuracy 0.97058
+Epoch 7, Batch 300, Loss 0.01414,             SC Accuracy 0.12874, Mean Accuracy 0.96938
+Epoch 7, Batch 350, Loss 0.01415,             SC Accuracy 0.12872, Mean Accuracy 0.96932
+Epoch 7, Batch 400, Loss 0.01404,             SC Accuracy 0.12876, Mean Accuracy 0.96957
+Epoch 7, Batch 450, Loss 0.01377,             SC Accuracy 0.12878, Mean Accuracy 0.97009
+Epoch 7, Batch 500, Loss 0.01372,             SC Accuracy 0.12880, Mean Accuracy 0.97021
+Epoch 7, Batch 550, Loss 0.01372,             SC Accuracy 0.12881, Mean Accuracy 0.97026
+Saving checkpoint for epoch 7 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-7
+Epoch 7, Loss 0.01378,     SC Accuracy 0.12879, Mean Accuracy 0.97008
+Training time for this epoch: 165.77612 seconds
+
+Epoch 8, Batch 0, Loss 0.02246,             SC Accuracy 0.13053, Mean Accuracy 0.94599
+Epoch 8, Batch 50, Loss 0.01529,             SC Accuracy 0.12931, Mean Accuracy 0.96666
+Epoch 8, Batch 100, Loss 0.01415,             SC Accuracy 0.12895, Mean Accuracy 0.97003
+Epoch 8, Batch 150, Loss 0.01384,             SC Accuracy 0.12866, Mean Accuracy 0.97079
+Epoch 8, Batch 200, Loss 0.01441,             SC Accuracy 0.12866, Mean Accuracy 0.96949
+Epoch 8, Batch 250, Loss 0.01454,             SC Accuracy 0.12858, Mean Accuracy 0.96908
+Epoch 8, Batch 300, Loss 0.01439,             SC Accuracy 0.12864, Mean Accuracy 0.96931
+Epoch 8, Batch 350, Loss 0.01417,             SC Accuracy 0.12868, Mean Accuracy 0.96966
+Epoch 8, Batch 400, Loss 0.01410,             SC Accuracy 0.12871, Mean Accuracy 0.96978
+Epoch 8, Batch 450, Loss 0.01383,             SC Accuracy 0.12876, Mean Accuracy 0.97035
+Epoch 8, Batch 500, Loss 0.01360,             SC Accuracy 0.12877, Mean Accuracy 0.97088
+Epoch 8, Batch 550, Loss 0.01374,             SC Accuracy 0.12882, Mean Accuracy 0.97060
+Saving checkpoint for epoch 8 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-8
+Epoch 8, Loss 0.01376,     SC Accuracy 0.12884, Mean Accuracy 0.97054
+Training time for this epoch: 165.60781 seconds
+
+Epoch 9, Batch 0, Loss 0.00295,             SC Accuracy 0.13125, Mean Accuracy 0.99635
+Epoch 9, Batch 50, Loss 0.01108,             SC Accuracy 0.12846, Mean Accuracy 0.97547
+Epoch 9, Batch 100, Loss 0.01295,             SC Accuracy 0.12895, Mean Accuracy 0.97182
+Epoch 9, Batch 150, Loss 0.01295,             SC Accuracy 0.12930, Mean Accuracy 0.97179
+Epoch 9, Batch 200, Loss 0.01273,             SC Accuracy 0.12917, Mean Accuracy 0.97207
+Epoch 9, Batch 250, Loss 0.01249,             SC Accuracy 0.12923, Mean Accuracy 0.97262
+Epoch 9, Batch 300, Loss 0.01240,             SC Accuracy 0.12929, Mean Accuracy 0.97277
+Epoch 9, Batch 350, Loss 0.01189,             SC Accuracy 0.12943, Mean Accuracy 0.97384
+Epoch 9, Batch 400, Loss 0.01192,             SC Accuracy 0.12943, Mean Accuracy 0.97376
+Epoch 9, Batch 450, Loss 0.01161,             SC Accuracy 0.12940, Mean Accuracy 0.97444
+Epoch 9, Batch 500, Loss 0.01172,             SC Accuracy 0.12941, Mean Accuracy 0.97416
+Epoch 9, Batch 550, Loss 0.01164,             SC Accuracy 0.12936, Mean Accuracy 0.97421
+Saving checkpoint for epoch 9 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-9
+Epoch 9, Loss 0.01167,     SC Accuracy 0.12933, Mean Accuracy 0.97413
+Training time for this epoch: 166.21230 seconds
+
+Epoch 10, Batch 0, Loss 0.01346,             SC Accuracy 0.13125, Mean Accuracy 0.97326
+Epoch 10, Batch 50, Loss 0.01121,             SC Accuracy 0.12907, Mean Accuracy 0.97519
+Epoch 10, Batch 100, Loss 0.01044,             SC Accuracy 0.12911, Mean Accuracy 0.97669
+Epoch 10, Batch 150, Loss 0.01022,             SC Accuracy 0.12964, Mean Accuracy 0.97744
+Epoch 10, Batch 200, Loss 0.01044,             SC Accuracy 0.12962, Mean Accuracy 0.97685
+Epoch 10, Batch 250, Loss 0.01086,             SC Accuracy 0.12964, Mean Accuracy 0.97592
+Epoch 10, Batch 300, Loss 0.01103,             SC Accuracy 0.12961, Mean Accuracy 0.97545
+Epoch 10, Batch 350, Loss 0.01110,             SC Accuracy 0.12958, Mean Accuracy 0.97539
+Epoch 10, Batch 400, Loss 0.01100,             SC Accuracy 0.12952, Mean Accuracy 0.97573
+Epoch 10, Batch 450, Loss 0.01094,             SC Accuracy 0.12958, Mean Accuracy 0.97585
+Epoch 10, Batch 500, Loss 0.01084,             SC Accuracy 0.12956, Mean Accuracy 0.97595
+Epoch 10, Batch 550, Loss 0.01091,             SC Accuracy 0.12961, Mean Accuracy 0.97584
+Saving checkpoint for epoch 10 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-10
+Epoch 10, Loss 0.01091,     SC Accuracy 0.12956, Mean Accuracy 0.97580
+Training time for this epoch: 165.05951 seconds
+
+Epoch 11, Batch 0, Loss 0.01214,             SC Accuracy 0.12957, Mean Accuracy 0.97822
+Epoch 11, Batch 50, Loss 0.00950,             SC Accuracy 0.12901, Mean Accuracy 0.97902
+Epoch 11, Batch 100, Loss 0.01005,             SC Accuracy 0.12971, Mean Accuracy 0.97729
+Epoch 11, Batch 150, Loss 0.01092,             SC Accuracy 0.12994, Mean Accuracy 0.97545
+Epoch 11, Batch 200, Loss 0.01070,             SC Accuracy 0.13011, Mean Accuracy 0.97625
+Epoch 11, Batch 250, Loss 0.01025,             SC Accuracy 0.13003, Mean Accuracy 0.97726
+Epoch 11, Batch 300, Loss 0.01003,             SC Accuracy 0.12986, Mean Accuracy 0.97771
+Epoch 11, Batch 350, Loss 0.01004,             SC Accuracy 0.12999, Mean Accuracy 0.97769
+Epoch 11, Batch 400, Loss 0.01015,             SC Accuracy 0.12991, Mean Accuracy 0.97747
+Epoch 11, Batch 450, Loss 0.01023,             SC Accuracy 0.12973, Mean Accuracy 0.97723
+Epoch 11, Batch 500, Loss 0.01015,             SC Accuracy 0.12976, Mean Accuracy 0.97753
+Epoch 11, Batch 550, Loss 0.01013,             SC Accuracy 0.12978, Mean Accuracy 0.97750
+Saving checkpoint for epoch 11 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-11
+Epoch 11, Loss 0.01013,     SC Accuracy 0.12978, Mean Accuracy 0.97749
+Training time for this epoch: 165.02898 seconds
+
+Epoch 12, Batch 0, Loss 0.00363,             SC Accuracy 0.12764, Mean Accuracy 0.99252
+Epoch 12, Batch 50, Loss 0.01031,             SC Accuracy 0.12984, Mean Accuracy 0.97707
+Epoch 12, Batch 100, Loss 0.00886,             SC Accuracy 0.13012, Mean Accuracy 0.98024
+Epoch 12, Batch 150, Loss 0.00947,             SC Accuracy 0.13032, Mean Accuracy 0.97896
+Epoch 12, Batch 200, Loss 0.00969,             SC Accuracy 0.13021, Mean Accuracy 0.97849
+Epoch 12, Batch 250, Loss 0.00954,             SC Accuracy 0.13032, Mean Accuracy 0.97878
+Epoch 12, Batch 300, Loss 0.00987,             SC Accuracy 0.13011, Mean Accuracy 0.97795
+Epoch 12, Batch 350, Loss 0.00979,             SC Accuracy 0.13015, Mean Accuracy 0.97815
+Epoch 12, Batch 400, Loss 0.00951,             SC Accuracy 0.13007, Mean Accuracy 0.97863
+Epoch 12, Batch 450, Loss 0.00931,             SC Accuracy 0.13004, Mean Accuracy 0.97905
+Epoch 12, Batch 500, Loss 0.00903,             SC Accuracy 0.13002, Mean Accuracy 0.97959
+Epoch 12, Batch 550, Loss 0.00923,             SC Accuracy 0.13001, Mean Accuracy 0.97918
+Saving checkpoint for epoch 12 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-12
+Epoch 12, Loss 0.00930,     SC Accuracy 0.13000, Mean Accuracy 0.97905
+Training time for this epoch: 164.37289 seconds
+
+Epoch 13, Batch 0, Loss 0.00449,             SC Accuracy 0.12476, Mean Accuracy 0.99616
+Epoch 13, Batch 50, Loss 0.00912,             SC Accuracy 0.12987, Mean Accuracy 0.98021
+Epoch 13, Batch 100, Loss 0.00921,             SC Accuracy 0.13002, Mean Accuracy 0.97966
+Epoch 13, Batch 150, Loss 0.00938,             SC Accuracy 0.12994, Mean Accuracy 0.97926
+Epoch 13, Batch 200, Loss 0.00923,             SC Accuracy 0.12982, Mean Accuracy 0.97995
+Epoch 13, Batch 250, Loss 0.00966,             SC Accuracy 0.13001, Mean Accuracy 0.97893
+Epoch 13, Batch 300, Loss 0.00955,             SC Accuracy 0.13000, Mean Accuracy 0.97896
+Epoch 13, Batch 350, Loss 0.00940,             SC Accuracy 0.13005, Mean Accuracy 0.97917
+Epoch 13, Batch 400, Loss 0.00927,             SC Accuracy 0.13004, Mean Accuracy 0.97941
+Epoch 13, Batch 450, Loss 0.00902,             SC Accuracy 0.13010, Mean Accuracy 0.97985
+Epoch 13, Batch 500, Loss 0.00886,             SC Accuracy 0.13012, Mean Accuracy 0.98019
+Epoch 13, Batch 550, Loss 0.00883,             SC Accuracy 0.13015, Mean Accuracy 0.98028
+Saving checkpoint for epoch 13 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-13
+Epoch 13, Loss 0.00880,     SC Accuracy 0.13016, Mean Accuracy 0.98026
+Training time for this epoch: 164.75325 seconds
+
+Epoch 14, Batch 0, Loss 0.00529,             SC Accuracy 0.12380, Mean Accuracy 0.98470
+Epoch 14, Batch 50, Loss 0.00765,             SC Accuracy 0.13085, Mean Accuracy 0.98239
+Epoch 14, Batch 100, Loss 0.00738,             SC Accuracy 0.13052, Mean Accuracy 0.98301
+Epoch 14, Batch 150, Loss 0.00725,             SC Accuracy 0.13016, Mean Accuracy 0.98329
+Epoch 14, Batch 200, Loss 0.00799,             SC Accuracy 0.13036, Mean Accuracy 0.98173
+Epoch 14, Batch 250, Loss 0.00826,             SC Accuracy 0.13016, Mean Accuracy 0.98112
+Epoch 14, Batch 300, Loss 0.00814,             SC Accuracy 0.13017, Mean Accuracy 0.98140
+Epoch 14, Batch 350, Loss 0.00813,             SC Accuracy 0.13034, Mean Accuracy 0.98138
+Epoch 14, Batch 400, Loss 0.00816,             SC Accuracy 0.13025, Mean Accuracy 0.98133
+Epoch 14, Batch 450, Loss 0.00812,             SC Accuracy 0.13033, Mean Accuracy 0.98134
+Epoch 14, Batch 500, Loss 0.00802,             SC Accuracy 0.13036, Mean Accuracy 0.98156
+Epoch 14, Batch 550, Loss 0.00798,             SC Accuracy 0.13033, Mean Accuracy 0.98161
+Saving checkpoint for epoch 14 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-14
+Epoch 14, Loss 0.00790,     SC Accuracy 0.13036, Mean Accuracy 0.98176
+Training time for this epoch: 164.07901 seconds
+
+Epoch 15, Batch 0, Loss 0.00501,             SC Accuracy 0.12812, Mean Accuracy 0.98521
+Epoch 15, Batch 50, Loss 0.00598,             SC Accuracy 0.13051, Mean Accuracy 0.98605
+Epoch 15, Batch 100, Loss 0.00680,             SC Accuracy 0.13061, Mean Accuracy 0.98451
+Epoch 15, Batch 150, Loss 0.00714,             SC Accuracy 0.13061, Mean Accuracy 0.98372
+Epoch 15, Batch 200, Loss 0.00773,             SC Accuracy 0.13084, Mean Accuracy 0.98251
+Epoch 15, Batch 250, Loss 0.00746,             SC Accuracy 0.13066, Mean Accuracy 0.98308
+Epoch 15, Batch 300, Loss 0.00755,             SC Accuracy 0.13055, Mean Accuracy 0.98291
+Epoch 15, Batch 350, Loss 0.00756,             SC Accuracy 0.13053, Mean Accuracy 0.98282
+Epoch 15, Batch 400, Loss 0.00753,             SC Accuracy 0.13056, Mean Accuracy 0.98280
+Epoch 15, Batch 450, Loss 0.00759,             SC Accuracy 0.13050, Mean Accuracy 0.98258
+Epoch 15, Batch 500, Loss 0.00755,             SC Accuracy 0.13049, Mean Accuracy 0.98264
+Epoch 15, Batch 550, Loss 0.00748,             SC Accuracy 0.13048, Mean Accuracy 0.98279
+Saving checkpoint for epoch 15 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-15
+Epoch 15, Loss 0.00744,     SC Accuracy 0.13052, Mean Accuracy 0.98289
+Training time for this epoch: 164.25446 seconds
+
+Epoch 16, Batch 0, Loss 0.00003,             SC Accuracy 0.12837, Mean Accuracy 1.00000
+Epoch 16, Batch 50, Loss 0.00564,             SC Accuracy 0.12947, Mean Accuracy 0.98661
+Epoch 16, Batch 100, Loss 0.00565,             SC Accuracy 0.12968, Mean Accuracy 0.98661
+Epoch 16, Batch 150, Loss 0.00649,             SC Accuracy 0.12978, Mean Accuracy 0.98472
+Epoch 16, Batch 200, Loss 0.00683,             SC Accuracy 0.12989, Mean Accuracy 0.98383
+Epoch 16, Batch 250, Loss 0.00690,             SC Accuracy 0.13017, Mean Accuracy 0.98384
+Epoch 16, Batch 300, Loss 0.00687,             SC Accuracy 0.13023, Mean Accuracy 0.98397
+Epoch 16, Batch 350, Loss 0.00708,             SC Accuracy 0.13030, Mean Accuracy 0.98347
+Epoch 16, Batch 400, Loss 0.00708,             SC Accuracy 0.13038, Mean Accuracy 0.98342
+Epoch 16, Batch 450, Loss 0.00697,             SC Accuracy 0.13048, Mean Accuracy 0.98363
+Epoch 16, Batch 500, Loss 0.00693,             SC Accuracy 0.13049, Mean Accuracy 0.98373
+Epoch 16, Batch 550, Loss 0.00716,             SC Accuracy 0.13061, Mean Accuracy 0.98324
+Saving checkpoint for epoch 16 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-16
+Epoch 16, Loss 0.00711,     SC Accuracy 0.13056, Mean Accuracy 0.98331
+Training time for this epoch: 164.36218 seconds
+
+Epoch 17, Batch 0, Loss 0.00392,             SC Accuracy 0.12957, Mean Accuracy 0.99263
+Epoch 17, Batch 50, Loss 0.00779,             SC Accuracy 0.12985, Mean Accuracy 0.98155
+Epoch 17, Batch 100, Loss 0.00678,             SC Accuracy 0.12992, Mean Accuracy 0.98400
+Epoch 17, Batch 150, Loss 0.00752,             SC Accuracy 0.13027, Mean Accuracy 0.98251
+Epoch 17, Batch 200, Loss 0.00702,             SC Accuracy 0.13012, Mean Accuracy 0.98365
+Epoch 17, Batch 250, Loss 0.00675,             SC Accuracy 0.13028, Mean Accuracy 0.98414
+Epoch 17, Batch 300, Loss 0.00663,             SC Accuracy 0.13037, Mean Accuracy 0.98445
+Epoch 17, Batch 350, Loss 0.00682,             SC Accuracy 0.13040, Mean Accuracy 0.98415
+Epoch 17, Batch 400, Loss 0.00686,             SC Accuracy 0.13051, Mean Accuracy 0.98414
+Epoch 17, Batch 450, Loss 0.00684,             SC Accuracy 0.13065, Mean Accuracy 0.98420
+Epoch 17, Batch 500, Loss 0.00664,             SC Accuracy 0.13069, Mean Accuracy 0.98456
+Epoch 17, Batch 550, Loss 0.00659,             SC Accuracy 0.13071, Mean Accuracy 0.98472
+Saving checkpoint for epoch 17 at /content/drive/MyDrive/MLProject/checkpoints/training_checkpoints/moops_transfomer/ckpt-17
+Epoch 17, Loss 0.00674,     SC Accuracy 0.13072, Mean Accuracy 0.98443
+Training time for this epoch: 164.30276 seconds
+
+
+
+
+
+
+Samples tested: 10, Correctly solved: 8
+Samples tested: 20, Correctly solved: 18
+Samples tested: 30, Correctly solved: 27
+Samples tested: 40, Correctly solved: 31
+Samples tested: 50, Correctly solved: 37
+Samples tested: 60, Correctly solved: 45
+Samples tested: 70, Correctly solved: 54
+Samples tested: 80, Correctly solved: 60
+Samples tested: 90, Correctly solved: 69
+Samples tested: 100, Correctly solved: 75
+Samples tested: 110, Correctly solved: 82
+Samples tested: 120, Correctly solved: 91
+Samples tested: 130, Correctly solved: 98
+Samples tested: 140, Correctly solved: 106
+Samples tested: 150, Correctly solved: 111
+Samples tested: 160, Correctly solved: 120
+Samples tested: 170, Correctly solved: 128
+Samples tested: 180, Correctly solved: 134
+Samples tested: 190, Correctly solved: 144
+Samples tested: 200, Correctly solved: 149
+Samples tested: 210, Correctly solved: 158
+Samples tested: 220, Correctly solved: 167
+Samples tested: 230, Correctly solved: 171
+Samples tested: 240, Correctly solved: 178
+Samples tested: 250, Correctly solved: 187
+Samples tested: 260, Correctly solved: 192
+Samples tested: 270, Correctly solved: 202
+Samples tested: 280, Correctly solved: 209
+Samples tested: 290, Correctly solved: 216
+Samples tested: 300, Correctly solved: 222
+Samples tested: 310, Correctly solved: 230
+Samples tested: 320, Correctly solved: 238
+Samples tested: 330, Correctly solved: 244
+Samples tested: 340, Correctly solved: 248
+Samples tested: 350, Correctly solved: 255
+Samples tested: 360, Correctly solved: 261
+Samples tested: 370, Correctly solved: 268
+Samples tested: 380, Correctly solved: 278
+Samples tested: 390, Correctly solved: 285
+Samples tested: 400, Correctly solved: 293
+Samples tested: 410, Correctly solved: 300
+Samples tested: 420, Correctly solved: 310
+Samples tested: 430, Correctly solved: 315
+Samples tested: 440, Correctly solved: 324
+Samples tested: 450, Correctly solved: 331
+Samples tested: 460, Correctly solved: 337
+Samples tested: 470, Correctly solved: 345
+Samples tested: 480, Correctly solved: 352
+Samples tested: 490, Correctly solved: 358
+Samples tested: 500, Correctly solved: 366
+Samples tested: 510, Correctly solved: 373
+Samples tested: 520, Correctly solved: 381
+Samples tested: 530, Correctly solved: 390
+Samples tested: 540, Correctly solved: 398
+Samples tested: 550, Correctly solved: 403
+Samples tested: 560, Correctly solved: 409
+Samples tested: 570, Correctly solved: 417
+Samples tested: 580, Correctly solved: 424
+Samples tested: 590, Correctly solved: 432
+Samples tested: 600, Correctly solved: 438
+Samples tested: 610, Correctly solved: 447
+Samples tested: 620, Correctly solved: 455
+Samples tested: 630, Correctly solved: 460
+Samples tested: 640, Correctly solved: 467
+Samples tested: 650, Correctly solved: 475
+Samples tested: 660, Correctly solved: 483
+Samples tested: 670, Correctly solved: 490
+Samples tested: 680, Correctly solved: 497
+Samples tested: 690, Correctly solved: 504
+Samples tested: 700, Correctly solved: 511
+Samples tested: 710, Correctly solved: 521
+Samples tested: 720, Correctly solved: 530
+Samples tested: 730, Correctly solved: 537
+Samples tested: 740, Correctly solved: 544
+Samples tested: 750, Correctly solved: 551
+Samples tested: 760, Correctly solved: 558
+Samples tested: 770, Correctly solved: 567
+Samples tested: 780, Correctly solved: 570
+Samples tested: 790, Correctly solved: 576
+Samples tested: 800, Correctly solved: 582
+Samples tested: 810, Correctly solved: 589
+Samples tested: 820, Correctly solved: 594
+Samples tested: 830, Correctly solved: 602
+Samples tested: 840, Correctly solved: 610
+Samples tested: 850, Correctly solved: 617
+Samples tested: 860, Correctly solved: 626
+Samples tested: 870, Correctly solved: 634
+Samples tested: 880, Correctly solved: 641
+Samples tested: 890, Correctly solved: 648
+Samples tested: 900, Correctly solved: 656
+Samples tested: 910, Correctly solved: 666
+Samples tested: 920, Correctly solved: 672
+Samples tested: 930, Correctly solved: 678
+Samples tested: 940, Correctly solved: 686
+Samples tested: 950, Correctly solved: 695
+Samples tested: 960, Correctly solved: 704
+Samples tested: 970, Correctly solved: 709
+Samples tested: 980, Correctly solved: 714
+Samples tested: 990, Correctly solved: 717
+Samples tested: 1000, Correctly solved: 723
+Samples tested: 1010, Correctly solved: 731
+Samples tested: 1020, Correctly solved: 739
+Samples tested: 1030, Correctly solved: 747
+Samples tested: 1040, Correctly solved: 752
+Samples tested: 1050, Correctly solved: 760
+Samples tested: 1060, Correctly solved: 767
+Samples tested: 1070, Correctly solved: 775
+Samples tested: 1080, Correctly solved: 785
+Samples tested: 1090, Correctly solved: 793
+Samples tested: 1100, Correctly solved: 802
+Samples tested: 1110, Correctly solved: 812
+Samples tested: 1120, Correctly solved: 820
+Samples tested: 1130, Correctly solved: 826
+Samples tested: 1140, Correctly solved: 833
+Samples tested: 1150, Correctly solved: 842
+Samples tested: 1160, Correctly solved: 848
+Samples tested: 1170, Correctly solved: 856
+Samples tested: 1180, Correctly solved: 864
+Samples tested: 1190, Correctly solved: 873
+Samples tested: 1200, Correctly solved: 880
+Samples tested: 1210, Correctly solved: 885
+Samples tested: 1220, Correctly solved: 891
+Samples tested: 1230, Correctly solved: 897
+Samples tested: 1240, Correctly solved: 904
+Samples tested: 1250, Correctly solved: 910
+Samples tested: 1260, Correctly solved: 917
+Samples tested: 1270, Correctly solved: 924
+Samples tested: 1280, Correctly solved: 931
+Samples tested: 1290, Correctly solved: 938
+Samples tested: 1300, Correctly solved: 945
+Samples tested: 1310, Correctly solved: 953
+Samples tested: 1320, Correctly solved: 962
+Samples tested: 1330, Correctly solved: 969
+Samples tested: 1340, Correctly solved: 975
+Samples tested: 1350, Correctly solved: 980
+Samples tested: 1360, Correctly solved: 987
+Samples tested: 1370, Correctly solved: 994
+Samples tested: 1380, Correctly solved: 1001
+Samples tested: 1390, Correctly solved: 1009
+Samples tested: 1400, Correctly solved: 1017
+Samples tested: 1410, Correctly solved: 1025
+Samples tested: 1420, Correctly solved: 1031
+Samples tested: 1430, Correctly solved: 1039
+Samples tested: 1440, Correctly solved: 1044
+Samples tested: 1450, Correctly solved: 1053
+Samples tested: 1460, Correctly solved: 1061
+Samples tested: 1470, Correctly solved: 1069
+Samples tested: 1480, Correctly solved: 1077
+Samples tested: 1490, Correctly solved: 1085
+Samples tested: 1500, Correctly solved: 1094
+Samples tested: 1510, Correctly solved: 1102
+Samples tested: 1520, Correctly solved: 1109
+Samples tested: 1530, Correctly solved: 1114
+Samples tested: 1540, Correctly solved: 1121
+Samples tested: 1550, Correctly solved: 1127
+Samples tested: 1560, Correctly solved: 1133
+Samples tested: 1570, Correctly solved: 1141
+Samples tested: 1580, Correctly solved: 1147
+Samples tested: 1590, Correctly solved: 1156
+Samples tested: 1600, Correctly solved: 1163
+Samples tested: 1610, Correctly solved: 1172
+Samples tested: 1620, Correctly solved: 1180
+Samples tested: 1630, Correctly solved: 1187
+Samples tested: 1640, Correctly solved: 1195
+Samples tested: 1650, Correctly solved: 1203
+Samples tested: 1660, Correctly solved: 1210
+Samples tested: 1670, Correctly solved: 1216
+Samples tested: 1680, Correctly solved: 1224
+Samples tested: 1690, Correctly solved: 1233
+Samples tested: 1700, Correctly solved: 1240
+Samples tested: 1710, Correctly solved: 1247
+Samples tested: 1720, Correctly solved: 1256
+Samples tested: 1730, Correctly solved: 1263
+Samples tested: 1740, Correctly solved: 1272
+Samples tested: 1750, Correctly solved: 1282
+Samples tested: 1760, Correctly solved: 1290
+Samples tested: 1770, Correctly solved: 1299
+Samples tested: 1780, Correctly solved: 1306
+Samples tested: 1790, Correctly solved: 1315
+Samples tested: 1800, Correctly solved: 1323
+Samples tested: 1810, Correctly solved: 1330
+Samples tested: 1820, Correctly solved: 1338
+Samples tested: 1830, Correctly solved: 1346
+Samples tested: 1840, Correctly solved: 1353
+Samples tested: 1850, Correctly solved: 1361
+Samples tested: 1860, Correctly solved: 1370
+Samples tested: 1870, Correctly solved: 1376
+Samples tested: 1880, Correctly solved: 1384
+Samples tested: 1890, Correctly solved: 1393
+Samples tested: 1900, Correctly solved: 1399
