@@ -24,7 +24,7 @@ We have deployed the model with a simple gradio UI. Visit **https://huggingface.
 * Shah Md. Jawad Kabir- 180041234
 
 ## Foreword:
-The goal of this model is to translate an MWP statement to a valid math expression, which when evaluated, yields the solution to the problem.
+The goal of this model is to translate an MWP statement to a valid math expression, which when evaluated, yields the solution to the problem. For a better understanding of the underlying transformer model, please go through the `MathBot.ipynb` file and the relevant literature that have been cited.
 
 ## Introduction:
 ### Definition:
@@ -50,6 +50,36 @@ Provide a simple Math Word Problem statement in the text-box on the left and cli
 
 You can also click on one of the many MWP examples shown below the text-boxes.
 ![1](featuresDemo/mathbot1.PNG)
+
+## Result Analysis:
+### Results:
+* Training-set Accuracy → $98.4$%
+* Test-set Accuracy → $73.7$%
+* Corpus BLEU (BiLingual Evaluation Understudy) → $87.2$%
+
+### Attention Weights:
+Let’s look at a test sample (please overlook the bad English)...
+
+**Problem:**
+$\text{Sarah wants to diverge 764 plums among 23 friends. How many would each friend experience?}$
+
+**Predicted Translation:**
+$\text{x = 764/23}$
+
+![3](featuresDemo/Attention Weights.png)
+Here, we can see the tokens from prompt in columns and the tokens from target expressions in rows. These multiheads are somewhat similar to kernels in Convolutional Neural Networks (CNNs). We can see every single head except head $5$ and $7$ gives very heavy attention to the numbers from both sides. Also note that head $5$ gives strong attention to the $“each”$.
+
+## Critique:
+### Strengths:
+* Correctly identifies where to give attentions to figure out the expression.
+* Robust to grammatical errors.
+* Achieves $73.7$%; better than some of the works done before on this dataset.
+
+### Weaknesses:
+* Trained on small dataset.
+* Struggles in problems that require multiple steps and > 2 operators.
+* Uses tokens of digits, not whole numbers. Output can dramatically change for only changing a number in whole problem.
+* Can produce erroneous outputs if statement's grammar is slightly changed or if the given problem statement deviates too much from the structure of the problems in the training set.
 
 ## Resources:
 ### Tutorials:
