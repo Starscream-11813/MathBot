@@ -50,6 +50,7 @@ Provide a simple Math Word Problem statement in the text-box on the left and cli
 
 You can also click on one of the many MWP examples shown below the text-boxes.
 ![1](featuresDemo/mathbot1.PNG)
+
 ![demogif](featuresDemo/mathbot_demo.gif)
 
 ## Result Analysis:
